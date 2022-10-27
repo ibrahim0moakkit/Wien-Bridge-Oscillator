@@ -6,7 +6,7 @@ The amplifier circuit consists of LM741 OP-AMP, 2100ohm resistor, and 1kohm resi
 
 The feedback circuit consists of parallel RC and series RC components R=1kohm and C=0.1uF.
 
-And R5 slightly larger than 2xR3
+And R5 should be slightly larger than 2xR3
 
 ![wein-bridge-formula](https://user-images.githubusercontent.com/108411357/198380865-4a84cdd8-2c2a-499d-b858-fedbf84cffd3.png)
 
@@ -20,7 +20,7 @@ Gain for the feedback circuit (B) circuit is always equal to B=1/3.
 
 Gain for the inverting amplifier (A) circuit is equal to A=1+R5/R3.
 
-Wien Bridge Oscillator circuit
+# Wien Bridge Oscillator circuit using Multisim simulation
 
 ![Capture](https://user-images.githubusercontent.com/108411357/198381957-079ecd65-4bc2-4231-bb3a-d0a1afe40294.PNG)
 
