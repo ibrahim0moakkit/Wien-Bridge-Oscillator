@@ -1,0 +1,117 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(5.1.7)-1*%
+%TF.CreationDate,2022-10-27T22:03:01+03:00*%
+%TF.ProjectId,wien_osc,7769656e-5f6f-4736-932e-6b696361645f,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Copper,L2,Bot*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.1.7)-1) date 2022-10-27 22:03:01*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,ComponentPad*%
+%ADD10C,4.400000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD11O,1.600000X1.600000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD12C,1.600000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD13C,3.000000*%
+%TD*%
+%TA.AperFunction,ComponentPad*%
+%ADD14R,3.000000X3.000000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+%TO.P,H4,1*%
+%TO.N,N/C*%
+X172720000Y-117094000D03*
+%TD*%
+D11*
+%TO.P,2100 ohm,2*%
+%TO.N,Net-(R2-Pad1)*%
+X150530560Y-89748360D03*
+D12*
+%TO.P,2100 ohm,1*%
+%TO.N,Net-(C2-Pad1)*%
+X160690560Y-89748360D03*
+%TD*%
+D11*
+%TO.P,1k ohm,2*%
+%TO.N,Net-(C1-Pad1)*%
+X144332960Y-92890340D03*
+D12*
+%TO.P,1k ohm,1*%
+%TO.N,Net-(C2-Pad2)*%
+X144332960Y-103050340D03*
+%TD*%
+D11*
+%TO.P,1k ohm,2*%
+%TO.N,GND*%
+X145719800Y-88595200D03*
+D12*
+%TO.P,1k ohm,1*%
+%TO.N,Net-(R2-Pad1)*%
+X135559800Y-88595200D03*
+%TD*%
+D11*
+%TO.P,1k ohm,2*%
+%TO.N,Net-(C1-Pad1)*%
+X139181840Y-103174800D03*
+D12*
+%TO.P,1k ohm,1*%
+%TO.N,GND*%
+X139181840Y-93014800D03*
+%TD*%
+D13*
+%TO.P,9 V,2*%
+%TO.N,Net-(J2-Pad2)*%
+X166375080Y-104475280D03*
+D14*
+%TO.P,9 V,1*%
+%TO.N,GND*%
+X166375080Y-109555280D03*
+%TD*%
+D13*
+%TO.P,9V,2*%
+%TO.N,Net-(J1-Pad2)*%
+X143570960Y-109468920D03*
+D14*
+%TO.P,9V,1*%
+%TO.N,GND*%
+X138490960Y-109468920D03*
+%TD*%
+D10*
+%TO.P,H3,1*%
+%TO.N,N/C*%
+X172500000Y-83954620D03*
+%TD*%
+%TO.P,H2,1*%
+%TO.N,N/C*%
+X125000000Y-116906040D03*
+%TD*%
+%TO.P,H1,1*%
+%TO.N,N/C*%
+X125000000Y-83868260D03*
+%TD*%
+D12*
+%TO.P,0.1 uF,2*%
+%TO.N,Net-(C2-Pad2)*%
+X153395040Y-107955080D03*
+%TO.P,0.1 uF,1*%
+%TO.N,Net-(C2-Pad1)*%
+X155895040Y-107955080D03*
+%TD*%
+%TO.P,0.1 uF,2*%
+%TO.N,GND*%
+X134653020Y-97352480D03*
+%TO.P,0.1 uF,1*%
+%TO.N,Net-(C1-Pad1)*%
+X134653020Y-99852480D03*
+%TD*%
+M02*
