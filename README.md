@@ -28,7 +28,7 @@ Gain for the inverting amplifier (A) circuit is equal to A=1+R5/R3.
 ![sso](https://user-images.githubusercontent.com/108411357/198382598-5f7bdf37-ada1-4374-abd4-f655a21f7217.PNG)
 
 
-# Kicad pcb design
+# KiCad pcb design
 
 ![bn](https://user-images.githubusercontent.com/108411357/198382957-20daf183-ed38-4832-85a1-1c1dd2cb401e.PNG)
 
