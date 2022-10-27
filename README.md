@@ -29,3 +29,7 @@ Wien Bridge Oscillator circuit
 
 
 # Kicad pcb design
+
+![bn](https://user-images.githubusercontent.com/108411357/198382957-20daf183-ed38-4832-85a1-1c1dd2cb401e.PNG)
+
+![ckt](https://user-images.githubusercontent.com/108411357/198382988-bb679a71-ae13-458f-a3d9-daa641377476.PNG)
