@@ -33,3 +33,9 @@ Wien Bridge Oscillator circuit
 ![bn](https://user-images.githubusercontent.com/108411357/198382957-20daf183-ed38-4832-85a1-1c1dd2cb401e.PNG)
 
 ![ckt](https://user-images.githubusercontent.com/108411357/198382988-bb679a71-ae13-458f-a3d9-daa641377476.PNG)
+
+# Soldired on a normal pcb
+
+![f5775737-ea28-4542-8a59-435e46757899](https://user-images.githubusercontent.com/108411357/198386607-0053d917-74bd-47bc-a4b5-1e6f34e4ff5d.jpg)
+
+![8030ebe3-4216-4692-8cb6-30966b90f6e2](https://user-images.githubusercontent.com/108411357/198386626-81e8e917-6085-46df-a5d6-29c4bcdf8dae.jpg)
