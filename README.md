@@ -18,7 +18,7 @@ fo=1591.5 Hz
 
 Gain for the feedback circuit (B) circuit is always equal to B=1/3.
 
-Gain for the inverting amplifier (A) circuit is equal to A=1+R2/R1.
+Gain for the inverting amplifier (A) circuit is equal to A=1+R5/R3.
 
 Wien Bridge Oscillator circuit
 
