@@ -6,7 +6,7 @@ The amplifier circuit consists of LM741 OP-AMP, 2100ohm resistor, and 1kohm resi
 
 The feedback circuit consists of parallel RC and series RC components R=1kohm and C=0.1uF.
 
-And R2 should be slightly bigger than R1
+And R5 slightly larger than 2xR3
 
 ![wein-bridge-formula](https://user-images.githubusercontent.com/108411357/198380865-4a84cdd8-2c2a-499d-b858-fedbf84cffd3.png)
 
